@@ -14,3 +14,4 @@ Después de cada persona registrada, te preguntará si deseas agregar otra.
 
 Escribe si para continuar agregando personas o no para terminar y mostrar la lista de personas registradas.
 
+s
